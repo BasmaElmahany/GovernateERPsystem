@@ -1,0 +1,12 @@
+D:\GovernateERPsystem\Governate_ERP_System.Domain\bin\Debug\net8.0\Governate_ERP_System.Domain.deps.json
+D:\GovernateERPsystem\Governate_ERP_System.Domain\bin\Debug\net8.0\Governate_ERP_System.Domain.dll
+D:\GovernateERPsystem\Governate_ERP_System.Domain\bin\Debug\net8.0\Governate_ERP_System.Domain.pdb
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\Governate_ERP_System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\Governate_ERP_System.Domain.AssemblyInfoInputs.cache
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\Governate_ERP_System.Domain.AssemblyInfo.cs
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\Governate_ERP_System.Domain.csproj.CoreCompileInputs.cache
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\Governate_ERP_System.Domain.sourcelink.json
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\Governate_ERP_System.Domain.dll
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\refint\Governate_ERP_System.Domain.dll
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\Governate_ERP_System.Domain.pdb
+D:\GovernateERPsystem\Governate_ERP_System.Domain\obj\Debug\net8.0\ref\Governate_ERP_System.Domain.dll

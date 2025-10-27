@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Governate_ERP_System.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f4021ccdfa3c2849198964b8d6fc81a09ddc4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Governate_ERP_System.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Governate_ERP_System.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

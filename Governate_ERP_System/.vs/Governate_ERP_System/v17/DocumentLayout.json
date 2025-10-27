@@ -1,12 +1,100 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GovernateERPsystem\\Governate_ERP_System\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF583576-D647-4AEB-9D71-E97200C5954F}|..\\Governate_ERP_System.Infrastructure\\Governate_ERP_System.Infrastructure.csproj|d:\\governateerpsystem\\governate_erp_system.infrastructure\\persistence\\catalogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF583576-D647-4AEB-9D71-E97200C5954F}|..\\Governate_ERP_System.Infrastructure\\Governate_ERP_System.Infrastructure.csproj|d:\\governateerpsystem\\governate_erp_system.infrastructure\\persistence\\accountingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF583576-D647-4AEB-9D71-E97200C5954F}|..\\Governate_ERP_System.Infrastructure\\Governate_ERP_System.Infrastructure.csproj|d:\\governateerpsystem\\governate_erp_system.infrastructure\\persistence\\schemaawaremodelcachekeyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF583576-D647-4AEB-9D71-E97200C5954F}|..\\Governate_ERP_System.Infrastructure\\Governate_ERP_System.Infrastructure.csproj|d:\\governateerpsystem\\governate_erp_system.infrastructure\\persistence\\appidentitydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF583576-D647-4AEB-9D71-E97200C5954F}|..\\Governate_ERP_System.Infrastructure\\Governate_ERP_System.Infrastructure.csproj|d:\\governateerpsystem\\governate_erp_system.infrastructure\\persistence\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogDbContext.cs",
+              "DocumentMoniker": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\CatalogDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Governate_ERP_System.Infrastructure\\Persistence\\CatalogDbContext.cs",
+              "ToolTip": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\CatalogDbContext.cs",
+              "RelativeToolTip": "..\\Governate_ERP_System.Infrastructure\\Persistence\\CatalogDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:54:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppIdentityDbContextFactory.cs",
+              "DocumentMoniker": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContextFactory.cs",
+              "ToolTip": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContextFactory.cs",
+              "RelativeToolTip": "..\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:53:57.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "ToolTip": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "..\\Governate_ERP_System.Infrastructure\\Persistence\\AppIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:53:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountingDbContext.cs",
+              "DocumentMoniker": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Governate_ERP_System.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "ToolTip": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "RelativeToolTip": "..\\Governate_ERP_System.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:53:47.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchemaAwareModelCacheKeyFactory.cs",
+              "DocumentMoniker": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\SchemaAwareModelCacheKeyFactory.cs",
+              "RelativeDocumentMoniker": "..\\Governate_ERP_System.Infrastructure\\Persistence\\SchemaAwareModelCacheKeyFactory.cs",
+              "ToolTip": "D:\\GovernateERPsystem\\Governate_ERP_System.Infrastructure\\Persistence\\SchemaAwareModelCacheKeyFactory.cs",
+              "RelativeToolTip": "..\\Governate_ERP_System.Infrastructure\\Persistence\\SchemaAwareModelCacheKeyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:53:33.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

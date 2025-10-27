@@ -1,0 +1,16 @@
+D:\GovernateERPsystem\Governate_ERP_System.Application\bin\Debug\net8.0\Governate_ERP_System.Application.deps.json
+D:\GovernateERPsystem\Governate_ERP_System.Application\bin\Debug\net8.0\Governate_ERP_System.Application.dll
+D:\GovernateERPsystem\Governate_ERP_System.Application\bin\Debug\net8.0\Governate_ERP_System.Application.pdb
+D:\GovernateERPsystem\Governate_ERP_System.Application\bin\Debug\net8.0\Governate_ERP_System.Domain.dll
+D:\GovernateERPsystem\Governate_ERP_System.Application\bin\Debug\net8.0\Governate_ERP_System.Domain.pdb
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.csproj.AssemblyReference.cache
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.AssemblyInfoInputs.cache
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.AssemblyInfo.cs
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.csproj.CoreCompileInputs.cache
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.sourcelink.json
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governat.A10AF71E.Up2Date
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.dll
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\refint\Governate_ERP_System.Application.dll
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\Governate_ERP_System.Application.pdb
+D:\GovernateERPsystem\Governate_ERP_System.Application\obj\Debug\net8.0\ref\Governate_ERP_System.Application.dll
